@@ -1,0 +1,36 @@
+{
+    "name": "@softvisio/messagepack",
+    "version": "0.0.0",
+    "description": "Fork of notepack.io with improvements",
+    "keywords": [
+        "softvisio",
+        "messagepack",
+        "notepack"
+    ],
+    "homepage": "https://bitbucket.org/softvisio/softvisio-messagepack",
+    "bugs": {
+        "url": "https://bitbucket.org/softvisio/softvisio-messagepack/issues",
+        "email": "zdm@softvisio.net"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://bitbucket.org/softvisio/softvisio-messagepack.git"
+    },
+    "license": "ISC",
+    "author": "zdm <zdm@softvisio.net>",
+    "exports": {
+        ".": "./lib/index.js"
+    },
+    "browser": {
+        "./lib/api.js": "./lib/api/client/browser.js"
+    },
+    "scripts": {
+        "lint": "softvisio-cli lint"
+    },
+    "devDependencies": {
+        "notepack.io": ">=2.3.0"
+    },
+    "lint": [
+        "*.*"
+    ]
+}
