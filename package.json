@@ -20,7 +20,9 @@
     "license": "ISC",
     "author": "zdm <zdm@softvisio.net>",
     "exports": {
-        ".": "./lib/index.js"
+        ".": "./lib/index.js",
+        "./encode": "./lib/encode.js",
+        "./decode": "./lib/decode.js"
     },
     "browser": {
         "./lib/encode.js": "./lib/browser/encode.js",
