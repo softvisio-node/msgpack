@@ -1,7 +1,7 @@
-# INSTALL
+# Description
 
-## NPM
+Fork of `notepack.io` with improvements:
 
-```
-npm i bitbucket:softvisio/softvisio-maxmind#latest
-```
+-   `BigInt` type support.
+-   `Date` encoded with standard messagepack protocol extension.
+-   Code optimizations.

@@ -22,7 +22,8 @@
         ".": "./lib/index.js"
     },
     "browser": {
-        "./lib/api.js": "./lib/api/client/browser.js"
+        "./lib/encode.js": "./lib/browser/encode.js",
+        "./lib/decode.js": "./lib/browser/decode.js"
     },
     "scripts": {
         "lint": "softvisio-cli lint"
