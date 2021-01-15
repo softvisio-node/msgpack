@@ -1,3 +1,7 @@
+## 0.3.1 (2021-01-15)
+
+-   code optimized
+
 ## 0.3.0 (2021-01-15)
 
 -   code optimized
