@@ -19,3 +19,5 @@ Fork of `notepack.io` with improvements:
 0xc9 0x01 BigInt
 
 0xd4 0x00 undefined
+
+https://github.com/msgpack/msgpack/blob/master/spec.md
