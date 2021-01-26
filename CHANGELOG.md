@@ -1,3 +1,7 @@
+## 0.4.0 (2021-01-26)
+
+-   migrated to node v15
+
 ## 0.3.3 (2021-01-16)
 
 -   lint glob fixed
