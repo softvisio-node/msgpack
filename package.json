@@ -38,7 +38,7 @@
         "lint": "softvisio-cli lint"
     },
     "devDependencies": {
-        "notepack.io": ">=2.3.0"
+        "notepack.io": "^2.3.0"
     },
     "lint": [
         "**"
