@@ -26,8 +26,8 @@
             "browser": "./lib/browser/decode.js"
         },
         "./encode": {
-            "node": "./lib/encode.js",
-            "browser": "./lib/browser/encode.js"
+            "browser": "./lib/browser/encode.js",
+            "node": "./lib/encode.js"
         }
     },
     "main": "./lib/index.js",
