@@ -1,3 +1,9 @@
+## 1.0.2 (2021-04-09)
+
+### Raw commits log
+
+-   package exports fix for browser;
+
 ## 1.0.1 (2021-01-31)
 
 -   package-lock disabled
