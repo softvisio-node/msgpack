@@ -1,3 +1,9 @@
+## 1.1.0 (2021-04-11)
+
+### Raw commits log
+
+-   stream mode added;
+
 ## 1.0.2 (2021-04-09)
 
 ### Raw commits log
