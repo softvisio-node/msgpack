@@ -22,8 +22,8 @@
     "exports": {
         ".": "./lib/index.js",
         "./decode": {
-            "node": "./lib/decode.js",
-            "browser": "./lib/browser/decode.js"
+            "browser": "./lib/browser/decode.js",
+            "node": "./lib/decode.js"
         },
         "./encode": {
             "browser": "./lib/browser/encode.js",
