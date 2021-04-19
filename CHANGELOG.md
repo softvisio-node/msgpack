@@ -1,3 +1,9 @@
+## 1.2.2 (2021-04-19)
+
+### Raw commits log
+
+-   browser exports fixed;
+
 ## 1.2.1 (2021-04-12)
 
 ### Raw commits log
