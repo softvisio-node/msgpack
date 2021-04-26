@@ -1,3 +1,9 @@
+## 1.3.0 (2021-04-26)
+
+### Raw commits log
+
+-   decode array buffers;
+
 ## 1.2.2 (2021-04-19)
 
 ### Raw commits log
