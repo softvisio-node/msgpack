@@ -1,6 +1,6 @@
 {
     "name": "@softvisio/msgpack",
-    "version": "1.4.2",
+    "version": "1.4.3",
     "description": "Fork of notepack.io with improvements",
     "keywords": [
         "softvisio",
