@@ -1,3 +1,9 @@
+## 2.0.0 (2021-04-26)
+
+### Raw commits log
+
+-   msgpack exports renamed;
+
 ## 1.4.3 (2021-04-26)
 
 ### Raw commits log
