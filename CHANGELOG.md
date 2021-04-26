@@ -1,3 +1,9 @@
+## 1.4.1 (2021-04-26)
+
+### Raw commits log
+
+-   browser exports updated;
+
 ## 1.4.0 (2021-04-26)
 
 ### Raw commits log
