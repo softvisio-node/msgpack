@@ -1,3 +1,9 @@
+## 1.4.2 (2021-04-26)
+
+### Raw commits log
+
+-   decode buffer fixed;
+
 ## 1.4.1 (2021-04-26)
 
 ### Raw commits log
