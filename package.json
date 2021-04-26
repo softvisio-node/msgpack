@@ -35,10 +35,6 @@
         }
     },
     "main": "./lib/browser/index.js",
-    "browser": {
-        "./lib/encode.js": "./lib/browser/encode.js",
-        "./lib/decode.js": "./lib/browser/decode.js"
-    },
     "scripts": {
         "lint": "softvisio-cli lint"
     },
