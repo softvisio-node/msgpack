@@ -1,3 +1,9 @@
+## 1.4.0 (2021-04-26)
+
+### Raw commits log
+
+-   converted to module;
+
 ## 1.3.0 (2021-04-26)
 
 ### Raw commits log
