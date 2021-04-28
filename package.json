@@ -34,7 +34,6 @@
             "node": "./lib/encode.cjs"
         }
     },
-    "main": "./lib/browser/index.js",
     "scripts": {
         "lint": "softvisio-cli lint"
     },
