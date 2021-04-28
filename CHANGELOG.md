@@ -1,3 +1,9 @@
+## 3.0.0-alpha.0 (2021-04-28)
+
+### Raw commits log
+
+-   ported to webpack 5;
+
 ## 2.0.0 (2021-04-26)
 
 ### Raw commits log
