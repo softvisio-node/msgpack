@@ -21,7 +21,7 @@
     "author": "zdm <zdm@softvisio.net>",
     "type": "module",
     "imports": {
-        "lib/*": "./lib/*.js"
+        "#lib/*": "./lib/*.js"
     },
     "exports": {
         ".": {
