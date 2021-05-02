@@ -20,18 +20,21 @@
     "license": "ISC",
     "author": "zdm <zdm@softvisio.net>",
     "type": "module",
+    "imports": {
+        "lib/*": "./lib/*.js"
+    },
     "exports": {
         ".": {
             "browser": "./lib/browser/index.js",
-            "node": "./lib/index.cjs"
+            "node": "./lib/index.js"
         },
         "./decode": {
             "browser": "./lib/browser/decode.js",
-            "node": "./lib/decode.cjs"
+            "node": "./lib/decode.js"
         },
         "./encode": {
             "browser": "./lib/browser/encode.js",
-            "node": "./lib/encode.cjs"
+            "node": "./lib/encode.js"
         }
     },
     "scripts": {
