@@ -20,9 +20,6 @@
     "license": "ISC",
     "author": "zdm <zdm@softvisio.net>",
     "type": "module",
-    "imports": {
-        "#lib/*": "./lib/*.js"
-    },
     "exports": {
         ".": {
             "browser": "./lib/browser/index.js",
