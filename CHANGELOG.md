@@ -1,3 +1,9 @@
+## 3.1.2 (2021-05-13)
+
+### Raw commits log
+
+-   broswer code moved;
+
 ## 3.1.1 (2021-05-03)
 
 ### Raw commits log
