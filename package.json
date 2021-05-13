@@ -22,15 +22,15 @@
     "type": "module",
     "exports": {
         ".": {
-            "browser": "./lib/browser/index.js",
+            "browser": "./lib/_browser/index.js",
             "node": "./lib/index.js"
         },
         "./decode": {
-            "browser": "./lib/browser/decode.js",
+            "browser": "./lib/_browser/decode.js",
             "node": "./lib/decode.js"
         },
         "./encode": {
-            "browser": "./lib/browser/encode.js",
+            "browser": "./lib/_browser/encode.js",
             "node": "./lib/encode.js"
         }
     },
