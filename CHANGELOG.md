@@ -1,3 +1,9 @@
+## 3.1.3 (2021-05-19)
+
+### Raw commits log
+
+-   lint script removed;
+
 ## 3.1.2 (2021-05-13)
 
 ### Raw commits log
