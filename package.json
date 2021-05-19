@@ -34,9 +34,6 @@
             "node": "./lib/encode.js"
         }
     },
-    "scripts": {
-        "lint": "softvisio-cli lint"
-    },
     "lint": [
         "**"
     ]
