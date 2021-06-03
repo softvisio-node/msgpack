@@ -8,14 +8,14 @@
         "msgpack",
         "notepack"
     ],
-    "homepage": "https://bitbucket.org/softvisio/softvisio-msgpack",
+    "homepage": "https://github.com/softvisio/msgpack",
     "bugs": {
-        "url": "https://bitbucket.org/softvisio/softvisio-msgpack/issues",
+        "url": "https://github.com/softvisio/msgpack/issues",
         "email": "zdm@softvisio.net"
     },
     "repository": {
         "type": "git",
-        "url": "https://bitbucket.org/softvisio/softvisio-msgpack.git"
+        "url": "https://github.com/softvisio/msgpack.git"
     },
     "license": "ISC",
     "author": "zdm <zdm@softvisio.net>",
