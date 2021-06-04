@@ -1,30 +1,30 @@
 ## 3.1.4 (2021-06-01)
 
-### Raw commits log
+**Raw commits log**
 
 -   lint config removed;
 
 ## 3.1.3 (2021-05-19)
 
-### Raw commits log
+**Raw commits log**
 
 -   lint script removed;
 
 ## 3.1.2 (2021-05-13)
 
-### Raw commits log
+**Raw commits log**
 
 -   broswer code moved;
 
 ## 3.1.1 (2021-05-03)
 
-### Raw commits log
+**Raw commits log**
 
 -   exports updated;
 
 ## 3.1.0 (2021-05-02)
 
-### Raw commits log
+**Raw commits log**
 
 -   ported to ESM;
 
@@ -32,73 +32,73 @@
 
 ## 3.0.0-alpha.0 (2021-04-28)
 
-### Raw commits log
+**Raw commits log**
 
 -   ported to webpack 5;
 
 ## 2.0.0 (2021-04-26)
 
-### Raw commits log
+**Raw commits log**
 
 -   msgpack exports renamed;
 
 ## 1.4.3 (2021-04-26)
 
-### Raw commits log
+**Raw commits log**
 
 -   browser exports updated;
 
 ## 1.4.2 (2021-04-26)
 
-### Raw commits log
+**Raw commits log**
 
 -   decode buffer fixed;
 
 ## 1.4.1 (2021-04-26)
 
-### Raw commits log
+**Raw commits log**
 
 -   browser exports updated;
 
 ## 1.4.0 (2021-04-26)
 
-### Raw commits log
+**Raw commits log**
 
 -   converted to module;
 
 ## 1.3.0 (2021-04-26)
 
-### Raw commits log
+**Raw commits log**
 
 -   decode array buffers;
 
 ## 1.2.2 (2021-04-19)
 
-### Raw commits log
+**Raw commits log**
 
 -   browser exports fixed;
 
 ## 1.2.1 (2021-04-12)
 
-### Raw commits log
+**Raw commits log**
 
 -   dev deps removed;
 
 ## 1.2.0 (2021-04-11)
 
-### Raw commits log
+**Raw commits log**
 
 -   stream decoder added;
 
 ## 1.1.0 (2021-04-11)
 
-### Raw commits log
+**Raw commits log**
 
 -   stream mode added;
 
 ## 1.0.2 (2021-04-09)
 
-### Raw commits log
+**Raw commits log**
 
 -   package exports fix for browser;
 
