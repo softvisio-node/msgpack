@@ -1,171 +1,173 @@
-## 3.1.5 (2021-06-05)
+# Changelog
 
-**Raw commits log**
+### 3.1.5 (2021-06-05)
+
+Changed:
 
 -   changelog updated;
 -   moved to github;
 
-## 3.1.4 (2021-06-01)
+### 3.1.4 (2021-06-01)
 
-**Raw commits log**
+Changed:
 
 -   lint config removed;
 
-## 3.1.3 (2021-05-19)
+### 3.1.3 (2021-05-19)
 
-**Raw commits log**
+Changed:
 
 -   lint script removed;
 
-## 3.1.2 (2021-05-13)
+### 3.1.2 (2021-05-13)
 
-**Raw commits log**
+Changed:
 
 -   broswer code moved;
 
-## 3.1.1 (2021-05-03)
+### 3.1.1 (2021-05-03)
 
-**Raw commits log**
+Changed:
 
 -   exports updated;
 
-## 3.1.0 (2021-05-02)
+### 3.1.0 (2021-05-02)
 
-**Raw commits log**
+Changed:
 
 -   ported to ESM;
 
-## 3.0.0 (2021-04-28)
+### 3.0.0 (2021-04-28)
 
-## 3.0.0-alpha.0 (2021-04-28)
+### 3.0.0-alpha.0 (2021-04-28)
 
-**Raw commits log**
+Changed:
 
 -   ported to webpack 5;
 
-## 2.0.0 (2021-04-26)
+### 2.0.0 (2021-04-26)
 
-**Raw commits log**
+Changed:
 
 -   msgpack exports renamed;
 
-## 1.4.3 (2021-04-26)
+### 1.4.3 (2021-04-26)
 
-**Raw commits log**
+Changed:
 
 -   browser exports updated;
 
-## 1.4.2 (2021-04-26)
+### 1.4.2 (2021-04-26)
 
-**Raw commits log**
+Changed:
 
 -   decode buffer fixed;
 
-## 1.4.1 (2021-04-26)
+### 1.4.1 (2021-04-26)
 
-**Raw commits log**
+Changed:
 
 -   browser exports updated;
 
-## 1.4.0 (2021-04-26)
+### 1.4.0 (2021-04-26)
 
-**Raw commits log**
+Changed:
 
 -   converted to module;
 
-## 1.3.0 (2021-04-26)
+### 1.3.0 (2021-04-26)
 
-**Raw commits log**
+Changed:
 
 -   decode array buffers;
 
-## 1.2.2 (2021-04-19)
+### 1.2.2 (2021-04-19)
 
-**Raw commits log**
+Changed:
 
 -   browser exports fixed;
 
-## 1.2.1 (2021-04-12)
+### 1.2.1 (2021-04-12)
 
-**Raw commits log**
+Changed:
 
 -   dev deps removed;
 
-## 1.2.0 (2021-04-11)
+### 1.2.0 (2021-04-11)
 
-**Raw commits log**
+Changed:
 
 -   stream decoder added;
 
-## 1.1.0 (2021-04-11)
+### 1.1.0 (2021-04-11)
 
-**Raw commits log**
+Changed:
 
 -   stream mode added;
 
-## 1.0.2 (2021-04-09)
+### 1.0.2 (2021-04-09)
 
-**Raw commits log**
+Changed:
 
 -   package exports fix for browser;
 
-## 1.0.1 (2021-01-31)
+### 1.0.1 (2021-01-31)
 
 -   package-lock disabled
 
-## 1.0.0 (2021-01-31)
+### 1.0.0 (2021-01-31)
 
-## 0.4.5 (2021-01-27)
+### 0.4.5 (2021-01-27)
 
 -   main entry point added
 
-## 0.4.4 (2021-01-27)
+### 0.4.4 (2021-01-27)
 
 -   deps updated
 
-## 0.4.3 (2021-01-27)
+### 0.4.3 (2021-01-27)
 
 -   deps updated
 
-## 0.4.2 (2021-01-27)
+### 0.4.2 (2021-01-27)
 
 -   deps updated
 
-## 0.4.1 (2021-01-26)
+### 0.4.1 (2021-01-26)
 
 -   deps updated
 
-## 0.4.0 (2021-01-26)
+### 0.4.0 (2021-01-26)
 
 -   migrated to node v15
 
-## 0.3.3 (2021-01-16)
+### 0.3.3 (2021-01-16)
 
 -   lint glob fixed
 -   linted
 
-## 0.3.2 (2021-01-15)
+### 0.3.2 (2021-01-15)
 
 -   readme
 
-## 0.3.1 (2021-01-15)
+### 0.3.1 (2021-01-15)
 
 -   code optimized
 
-## 0.3.0 (2021-01-15)
+### 0.3.0 (2021-01-15)
 
 -   code optimized
 -   exports fixed
 -   date encoder
 
-## 0.2.1 (2021-01-14)
+### 0.2.1 (2021-01-14)
 
 -   exports fixed
 
-## 0.2.0 (2021-01-14)
+### 0.2.0 (2021-01-14)
 
 -   project renamed
 
-## 0.1.0 (2021-01-14)
+### 0.1.0 (2021-01-14)
 
 -   init
