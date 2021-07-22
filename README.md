@@ -1,33 +1,17 @@
-# Description
+<!-- !!! DO NOT EDIT, THIS FILE IS GENERATED AUTOMATICALLY !!!  -->
 
-Fork of the `notepack.io` with improvements:
+> :information_source: Please, see the full project documentation here: [https://softvisio.github.io/msgpack/](https://softvisio.github.io/msgpack/).
 
--   `BigInt` type support.
--   `Date` encoded with the standard msgpack protocol extension.
--   Code optimizations.
+# Introduction
 
-**NOTE**: This package is not fully compatible with the `notepack.io`.
+<!-- Tell about the project -->
 
-## Custom extensions
+## Install
 
-[https://github.com/msgpack/msgpack/blob/master/spec.md](https://github.com/msgpack/msgpack/blob/master/spec.md)
+```shell
+npm i @softvisio/msgpack
+```
 
-### undefined
+## Usage
 
-0xd4 0x00 undefined
-
-### ArrayBuffer
-
-0xc7 0x00 ArrayBuffer
-0xc8 0x00 ArrayBuffer
-0xc9 0x09 ArrayBuffer
-
-### Date
-
-0xc7 0xff Date
-
-### BigInt
-
-0xc7 0x01 BigInt
-0xc8 0x01 BigInt
-0xc9 0x01 BigInt
+<!-- Tell about how to use the project, give code examples -->
