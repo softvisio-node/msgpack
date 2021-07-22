@@ -1,1 +1,4 @@
 logo: false
+
+types:
+  StreamMsgPackDecoder: "/#Class: StreamMsgPackDecoder"

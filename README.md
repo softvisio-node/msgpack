@@ -19,26 +19,49 @@ npm i @softvisio/msgpack
 ## Usage
 
 ```javascript
-import { encode, decode } from "@softvisio/msgpack";
+import * as msgpack from "@softvisio/msgpack";
 
-const buffer = encode([new Date()]);
+const buffer = msgpack.encode([new Date()]);
 
-const data = decode(buffer);
+const data = msgpack.decode(buffer);
 
-const stream = MSGPACK.decode.pipe(socket);
+const stream = new msgpack.decode.Stream();
 
 stream.on("data", msg => {});
+
+socket.pipe(stream);
 ```
 
-### encode( data )
+### msgpack.encode( data )
 
 -   `data` <any\> Data structire to encode.
 -   Returns: <Buffer\> Encoded data.
 
-### decode( buffer, stream? )
+### msgpack.decode( buffer, stream? )
 
 -   `buffer` <Buffer\> | <ArrayBuffer\> | <Uint8Array\> Data to decode.
 -   `stream?` <boolean\> Stream mode flag.
 -   Returns: <any\> Decoded data. In `stream` mode returns <Array\>:
     -   <any\> Decoded data.
     -   <integer\> Decoded data offset.
+
+### Class: StreamMsgPackDecoder
+
+#### new msgpack.decode.Stream()
+
+-   Returns: <StreamMsgPackDecoder\> Messagepack stream decoder. Instance of the <stream.Transform\>.
+
+## Custom extensions
+
+Specification [https://github.com/msgpack/msgpack/blob/master/spec.md](https://github.com/msgpack/msgpack/blob/master/spec.md).
+
+| Type           | Codes       |
+| -------------- | ----------- |
+| <undefined\>   | `0xd4 0x00` |
+| <ArrayBuffer\> | `0xc7 0x00` |
+|                | `0xc8 0x00` |
+|                | `0xc9 0x09` |
+| <Date\>        | `0xc7 0xff` |
+| <BigInt\>      | `0xc7 0x01` |
+|                | `0xc8 0x01` |
+|                | `0xc9 0x01` |
