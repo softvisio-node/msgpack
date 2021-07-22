@@ -1,4 +1,4 @@
 logo: false
 
 types:
-  StreamMsgPackDecoder: "/#Class: msgpack.decode.Stream"
+  msgpack.decode.Stream: "/#Class: msgpack.decode.Stream"

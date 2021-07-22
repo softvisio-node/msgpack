@@ -6,7 +6,7 @@
 
 Fork of the `notepack.io` with improvements:
 
--   Code optimizations
+-   Code optimizations.
 -   <Date\> encoded with the standard msgpack protocol extension (breaking change).
 -   <BigInt\> type support.
 
@@ -41,15 +41,15 @@ socket.pipe(stream);
 
 -   `buffer` <Buffer\> | <ArrayBuffer\> | <Uint8Array\> Data to decode.
 -   `stream?` <boolean\> Stream mode flag.
--   Returns: <any\> Decoded data. In `stream` mode returns <Array\>:
+-   Returns: <any\> Decoded data. In the `stream` mode returns <Array\>:
     -   <any\> Decoded data.
-    -   <integer\> Decoded data offset.
+    -   <integer\> Decoded data buffer length.
 
 ### Class: msgpack.decode.Stream
 
 #### new msgpack.decode.Stream()
 
--   Returns: <StreamMsgPackDecoder\> Messagepack stream decoder. Instance of the <stream.Transform\>. Stream works in the `object mode`.
+-   Returns: <msgpack.decode.Stream\> MessagePack stream decoder. Instance of the <stream.Transform\>. Stream works in the `object mode`.
 
 ## Custom extensions
 
