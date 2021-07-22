@@ -45,11 +45,11 @@ socket.pipe(stream);
     -   <any\> Decoded data.
     -   <integer\> Decoded data offset.
 
-### Class: StreamMsgPackDecoder
+### Class: msgpack.decode.Stream
 
 #### new msgpack.decode.Stream()
 
--   Returns: <StreamMsgPackDecoder\> Messagepack stream decoder. Instance of the <stream.Transform\>.
+-   Returns: <StreamMsgPackDecoder\> Messagepack stream decoder. Instance of the <stream.Transform\>. Stream works in the `object mode`.
 
 ## Custom extensions
 
