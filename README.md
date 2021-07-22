@@ -7,6 +7,7 @@
 Fork of the `notepack.io` with improvements:
 
 -   Code optimizations.
+-   Streaming decoder.
 -   <Date\> encoded with the standard msgpack protocol extension (breaking change).
 -   <BigInt\> type support.
 
@@ -24,12 +25,6 @@ import * as msgpack from "@softvisio/msgpack";
 const buffer = msgpack.encode([new Date()]);
 
 const data = msgpack.decode(buffer);
-
-const stream = new msgpack.decode.Stream();
-
-stream.on("data", msg => {});
-
-socket.pipe(stream);
 ```
 
 ### msgpack.encode( data )
@@ -46,6 +41,16 @@ socket.pipe(stream);
     -   <integer\> Decoded data buffer length.
 
 ### Class: msgpack.decode.Stream
+
+```javascript
+const stream = new msgpack.decode.Stream();
+
+stream.on("data", msg => {});
+
+socket.on("error", e => stream.destroy());
+
+socket.pipe(stream);
+```
 
 #### new msgpack.decode.Stream()
 
