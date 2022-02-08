@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.2.4 (2022-02-08)
+
+Fixes:
+
+-   fix: decode stream removed
+
 ### 3.2.3 (2022-01-04)
 
 No notable changes since the previous release.
