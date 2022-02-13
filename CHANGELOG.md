@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.2.5 (2022-02-13)
+
+Fixes:
+
+-   fix: stream decoder
+
 ### 3.2.4 (2022-02-08)
 
 Fixes:
