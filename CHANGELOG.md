@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.2.6 (2022-02-13)
+
+Fixes:
+
+-   fix: error messages
+
 ### 3.2.5 (2022-02-13)
 
 Fixes:
