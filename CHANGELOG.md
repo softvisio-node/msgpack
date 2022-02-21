@@ -1,5 +1,12 @@
 # Changelog
 
+### 3.2.7 (2022-02-21)
+
+Fixes:
+
+-   fix: metadata update
+-   fix: solid font awesome
+
 ### 3.2.6 (2022-02-13)
 
 Fixes:
