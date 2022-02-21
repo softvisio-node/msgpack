@@ -8,10 +8,10 @@
         "msgpack",
         "notepack"
     ],
-    "homepage": "https://github.com/softvisio/msgpack",
+    "homepage": "https://softvisio.github.io/msgpack/",
     "bugs": {
         "url": "https://github.com/softvisio/msgpack/issues",
-        "email": "zdm@softvisio.net"
+        "email": "zdm <zdm@softvisio.net>"
     },
     "repository": {
         "type": "git",
