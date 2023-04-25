@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.2.10 (2023-04-25)
+
+Fixes:
+
+-   fix: buffer.slice replacef with subarray
+
 ### 3.2.9 (2023-01-24)
 
 Fixes:
