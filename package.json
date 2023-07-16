@@ -33,5 +33,11 @@
             "browser": "./lib/_browser/encode.js",
             "node": "./lib/encode.js"
         }
-    }
+    },
+    "files": [
+        "/bin",
+        "/lib",
+        "/resources",
+        "/src"
+    ]
 }
