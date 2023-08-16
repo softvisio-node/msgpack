@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.2.15 (2023-08-16)
+
+Fixes:
+
+-   fix: encoding
+
 ### 3.2.14 (2023-07-30)
 
 Fixes:
