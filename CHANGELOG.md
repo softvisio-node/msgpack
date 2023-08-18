@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.3.0 (2023-08-18)
+
+Features:
+
+-   feat: decode stream
+
 ### 3.2.15 (2023-08-16)
 
 Fixes:
