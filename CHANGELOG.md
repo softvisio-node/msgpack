@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.3.2 (2023-08-26)
+
+Fixes:
+
+-   fix: streams
+
 ### 3.3.1 (2023-08-25)
 
 Fixes:
