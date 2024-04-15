@@ -1,4 +1,0 @@
-logo: false
-
-types:
-  msgpack.decode.Stream: "/#Class: msgpack.decode.Stream"

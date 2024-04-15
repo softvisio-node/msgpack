@@ -1,0 +1,5 @@
+docs:
+  location: docs
+
+  types:
+    msgpack.decode.Stream: "/#Class: msgpack.decode.Stream"
