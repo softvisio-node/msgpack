@@ -27,18 +27,17 @@ const buffer = msgpack.encode([new Date()]);
 const data = msgpack.decode(buffer);
 ```
 
-### msgpack.encode( data )
+### msgpack.encode( data, encoding? )
 
 -   `data` <any\> Data structire to encode.
--   Returns: <Buffer\> Encoded data.
+-   `encoding?` <string\> Return string in the specified encoding.
+-   Returns: <Buffer\> | <string\> Encoded data. Returns <string\> if `encoding` parameter is provided.
 
-### msgpack.decode( buffer, stream? )
+### msgpack.decode( data, encoding? )
 
--   `buffer` <Buffer\> | <ArrayBuffer\> | <Uint8Array\> Data to decode.
--   `stream?` <boolean\> Stream mode flag.
--   Returns: <any\> Decoded data. In the `stream` mode returns <Array\>:
-    -   <any\> Decoded data.
-    -   <integer\> Decoded data buffer length.
+-   `data` <Buffer\> | <ArrayBuffer\> | <Uint8Array\> | <string\> Data to decode.
+-   `encoding?` <string\> String encoding if `data` parameter is <string\>.
+-   Returns: <any\> Decoded data.
 
 ### Class: msgpack.decode.Stream
 
