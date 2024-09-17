@@ -39,21 +39,19 @@ const data = msgpack.decode(buffer);
 -   `encoding?` <string\> String encoding if `data` parameter is <string\>.
 -   Returns: <any\> Decoded data.
 
-### Class: msgpack.decode.Stream
+Throws error if unable to decode message.
 
-```javascript
-const stream = new msgpack.decode.Stream();
+### msgpack.decodeStream( data, offset )
 
-stream.on("data", msg => {});
+-   `data` <Buffer\> | <ArrayBuffer\> | <Uint8Array\> | <string\> Data to decode.
+-   `offset` <integer\> Data offset.
+-   Returns: <Array\>:
+    -   <any\> Decoded data.
+    -   <integer\> Offset. Should be passed to the next `decodeStream` call.
 
-socket.on("error", e => stream.destroy());
+Returns `undeifned` if message is incomplete.
 
-socket.pipe(stream);
-```
-
-#### new msgpack.decode.Stream()
-
--   Returns: <msgpack.decode.Stream\> MessagePack stream decoder. Instance of the <stream.Transform\>. Stream works in the `object mode`.
+Throws error if unable to decode message.
 
 ## Custom extensions
 
