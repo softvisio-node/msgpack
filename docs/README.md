@@ -45,7 +45,7 @@ Throws error if unable to decode message.
     -   <any\> Decoded data.
     -   <integer\> Offset. Should be passed to the next `decodeStream` call.
 
-Returns `undeifned` if message is incomplete.
+Returns <undefined\> if message is incomplete.
 
 Throws error if unable to decode message.
 
