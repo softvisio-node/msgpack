@@ -44,10 +44,10 @@ Throws error if unable to decode message.
 ### msgpack.decodeStream( data, offset )
 
 -   `data` <Buffer\> | <ArrayBuffer\> | <Uint8Array\> | <string\> Data to decode.
--   `offset` <integer\> Data offset.
+-   `offset?` <integer\> Offset of the message start in the passed data. **Default:** `0`.
 -   Returns: <Array\>:
     -   <any\> Decoded data.
-    -   <integer\> Offset. Should be passed to the next `decodeStream` call.
+    -   <integer\> Offset of the decoded message end in the passed data.
 
 Returns <undefined\> if message is incomplete.
 
