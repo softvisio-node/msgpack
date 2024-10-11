@@ -10,7 +10,7 @@ Fork of the `notepack.io` with improvements:
 ## Install
 
 ```shell
-npm i @softvisio/msgpack
+npm install @softvisio/msgpack
 ```
 
 ## Usage

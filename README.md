@@ -1,6 +1,6 @@
 <!-- !!! DO NOT EDIT, THIS FILE IS GENERATED AUTOMATICALLY !!!  -->
 
-> :information_source: Please, see the full project documentation here: [https://softvisio-node.github.io/msgpack/](https://softvisio-node.github.io/msgpack/).
+> :information_source: Please, see the full project documentation here:<br>[https://softvisio-node.github.io/msgpack/](https://softvisio-node.github.io/msgpack/)
 
 # Introduction
 
@@ -14,7 +14,7 @@ Fork of the `notepack.io` with improvements:
 ## Install
 
 ```shell
-npm i @softvisio/msgpack
+npm install @softvisio/msgpack
 ```
 
 ## Usage
