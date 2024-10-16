@@ -1,5 +1,11 @@
 # Changelog
 
+### 3.3.20 (2024-10-16)
+
+No notable changes since the previous release.
+
+[Full list of the changes](https://github.com/softvisio-node/msgpack/compare/v3.3.19...v3.3.20)
+
 ### 3.3.19 (2024-10-11)
 
 No notable changes since the previous release.
