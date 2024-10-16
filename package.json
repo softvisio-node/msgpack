@@ -39,5 +39,8 @@
         "/lib",
         "/resources",
         "/src"
-    ]
+    ],
+    "scripts": {
+        "publish": "softvisio-cli package publish"
+    }
 }
