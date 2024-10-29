@@ -22,9 +22,9 @@ npm install @softvisio/msgpack
 ```javascript
 import * as msgpack from "@softvisio/msgpack";
 
-const buffer = msgpack.encode([new Date()]);
+const buffer = msgpack.encode( [ new Date() ] );
 
-const data = msgpack.decode(buffer);
+const data = msgpack.decode( buffer );
 ```
 
 ### msgpack.encode( data, encoding? )
