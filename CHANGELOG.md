@@ -1,5 +1,13 @@
 # Changelog
 
+### 3.3.22 (2024-10-29)
+
+Other changes:
+
+-   chore: update docs
+
+[Compare with the previous release: v3.3.21 ... v3.3.22](https://github.com/softvisio-node/msgpack/compare/v3.3.21...v3.3.22)
+
 ### 3.3.21 (2024-10-20)
 
 No notable changes since the previous release.
