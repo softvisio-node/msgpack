@@ -1,5 +1,13 @@
 # Changelog
 
+### 3.3.23 (2024-11-29)
+
+Other changes:
+
+- chore: lint
+
+[Compare with the previous release: v3.3.22 ... v3.3.23](https://github.com/softvisio-node/msgpack/compare/v3.3.22...v3.3.23)
+
 ### 3.3.22 (2024-10-29)
 
 Other changes:
