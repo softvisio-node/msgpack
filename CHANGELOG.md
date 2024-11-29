@@ -4,7 +4,7 @@
 
 Other changes:
 
--   chore: update docs
+- chore: update docs
 
 [Compare with the previous release: v3.3.21 ... v3.3.22](https://github.com/softvisio-node/msgpack/compare/v3.3.21...v3.3.22)
 
@@ -30,7 +30,7 @@ No notable changes since the previous release.
 
 Fixes:
 
--   fix: dependabot
+- fix: dependabot
 
 ### 3.3.17 (2024-10-06)
 
@@ -56,13 +56,13 @@ No notable changes since the previous release.
 
 Fixes:
 
--   fix: editor config
+- fix: editor config
 
 ### 3.3.11 (2024-09-02)
 
 Fixes:
 
--   fix: docs config
+- fix: docs config
 
 ### 3.3.10 (2024-08-14)
 
@@ -72,134 +72,134 @@ No notable changes since the previous release.
 
 Fixes:
 
--   fix: .softvisio-cli.yaml renamed to .cli.yaml
+- fix: .softvisio-cli.yaml renamed to .cli.yaml
 
 ### 3.3.8 (2024-05-29)
 
 Fixes:
 
--   fix: email address
+- fix: email address
 
 ### 3.3.7 (2024-04-15)
 
 Fixes:
 
--   fix: docs
+- fix: docs
 
 ### 3.3.6 (2024-01-24)
 
 Fixes:
 
--   fix: linted
+- fix: linted
 
 ### 3.3.5 (2024-01-23)
 
 Fixes:
 
--   fix: linted
+- fix: linted
 
 ### 3.3.4 (2023-10-20)
 
 Fixes:
 
--   fix: package repo url
+- fix: package repo url
 
 ### 3.3.3 (2023-08-26)
 
 Fixes:
 
--   fix: streams
+- fix: streams
 
 ### 3.3.2 (2023-08-26)
 
 Fixes:
 
--   fix: streams
+- fix: streams
 
 ### 3.3.1 (2023-08-25)
 
 Fixes:
 
--   fix: streams
+- fix: streams
 
 ### 3.3.0 (2023-08-18)
 
 Features:
 
--   feat: decode stream
+- feat: decode stream
 
 ### 3.2.15 (2023-08-16)
 
 Fixes:
 
--   fix: encoding
+- fix: encoding
 
 ### 3.2.14 (2023-07-30)
 
 Fixes:
 
--   fix: .dockerignore
+- fix: .dockerignore
 
 ### 3.2.13 (2023-07-16)
 
 Fixes:
 
--   fix: npm files
+- fix: npm files
 
 ### 3.2.12 (2023-07-06)
 
 Fixes:
 
--   fix: linted
+- fix: linted
 
 ### 3.2.11 (2023-06-15)
 
 Fixes:
 
--   fix: migrate to the new glob
+- fix: migrate to the new glob
 
 ### 3.2.10 (2023-04-25)
 
 Fixes:
 
--   fix: buffer.slice replacef with subarray
+- fix: buffer.slice replacef with subarray
 
 ### 3.2.9 (2023-01-24)
 
 Fixes:
 
--   fix: git repo relocated
+- fix: git repo relocated
 
 ### 3.2.8 (2023-01-24)
 
 Fixes:
 
--   fix: git repo relocated
+- fix: git repo relocated
 
 ### 3.2.7 (2022-02-21)
 
 Fixes:
 
--   fix: metadata update
--   fix: solid font awesome
+- fix: metadata update
+- fix: solid font awesome
 
 ### 3.2.6 (2022-02-13)
 
 Fixes:
 
--   fix: error messages
+- fix: error messages
 
 ### 3.2.5 (2022-02-13)
 
 Fixes:
 
--   fix: stream decoder
+- fix: stream decoder
 
 ### 3.2.4 (2022-02-08)
 
 Fixes:
 
--   fix: decode stream removed
+- fix: decode stream removed
 
 ### 3.2.3 (2022-01-04)
 
@@ -209,62 +209,62 @@ No notable changes since the previous release.
 
 Fixed:
 
--   docs updated
+- docs updated
 
 ### 3.2.1 (2021-07-22)
 
 Fixed:
 
--   docs updated
+- docs updated
 
 ### 3.2.0 (2021-07-22)
 
 Added:
 
--   docs added
+- docs added
 
 ### 3.1.6 (2021-06-22)
 
 Fixed:
 
--   changelog updated;
+- changelog updated;
 
 ### 3.1.5 (2021-06-05)
 
 Changed:
 
--   changelog updated;
--   moved to github;
+- changelog updated;
+- moved to github;
 
 ### 3.1.4 (2021-06-01)
 
 Changed:
 
--   lint config removed;
+- lint config removed;
 
 ### 3.1.3 (2021-05-19)
 
 Changed:
 
--   lint script removed;
+- lint script removed;
 
 ### 3.1.2 (2021-05-13)
 
 Changed:
 
--   broswer code moved;
+- broswer code moved;
 
 ### 3.1.1 (2021-05-03)
 
 Changed:
 
--   exports updated;
+- exports updated;
 
 ### 3.1.0 (2021-05-02)
 
 Changed:
 
--   ported to ESM;
+- ported to ESM;
 
 ### 3.0.0 (2021-04-28)
 
@@ -272,131 +272,131 @@ Changed:
 
 Changed:
 
--   ported to webpack 5;
+- ported to webpack 5;
 
 ### 2.0.0 (2021-04-26)
 
 Changed:
 
--   msgpack exports renamed;
+- msgpack exports renamed;
 
 ### 1.4.3 (2021-04-26)
 
 Changed:
 
--   browser exports updated;
+- browser exports updated;
 
 ### 1.4.2 (2021-04-26)
 
 Changed:
 
--   decode buffer fixed;
+- decode buffer fixed;
 
 ### 1.4.1 (2021-04-26)
 
 Changed:
 
--   browser exports updated;
+- browser exports updated;
 
 ### 1.4.0 (2021-04-26)
 
 Changed:
 
--   converted to module;
+- converted to module;
 
 ### 1.3.0 (2021-04-26)
 
 Changed:
 
--   decode array buffers;
+- decode array buffers;
 
 ### 1.2.2 (2021-04-19)
 
 Changed:
 
--   browser exports fixed;
+- browser exports fixed;
 
 ### 1.2.1 (2021-04-12)
 
 Changed:
 
--   dev deps removed;
+- dev deps removed;
 
 ### 1.2.0 (2021-04-11)
 
 Changed:
 
--   stream decoder added;
+- stream decoder added;
 
 ### 1.1.0 (2021-04-11)
 
 Changed:
 
--   stream mode added;
+- stream mode added;
 
 ### 1.0.2 (2021-04-09)
 
 Changed:
 
--   package exports fix for browser;
+- package exports fix for browser;
 
 ### 1.0.1 (2021-01-31)
 
--   package-lock disabled
+- package-lock disabled
 
 ### 1.0.0 (2021-01-31)
 
 ### 0.4.5 (2021-01-27)
 
--   main entry point added
+- main entry point added
 
 ### 0.4.4 (2021-01-27)
 
--   deps updated
+- deps updated
 
 ### 0.4.3 (2021-01-27)
 
--   deps updated
+- deps updated
 
 ### 0.4.2 (2021-01-27)
 
--   deps updated
+- deps updated
 
 ### 0.4.1 (2021-01-26)
 
--   deps updated
+- deps updated
 
 ### 0.4.0 (2021-01-26)
 
--   migrated to node v15
+- migrated to node v15
 
 ### 0.3.3 (2021-01-16)
 
--   lint glob fixed
--   linted
+- lint glob fixed
+- linted
 
 ### 0.3.2 (2021-01-15)
 
--   readme
+- readme
 
 ### 0.3.1 (2021-01-15)
 
--   code optimized
+- code optimized
 
 ### 0.3.0 (2021-01-15)
 
--   code optimized
--   exports fixed
--   date encoder
+- code optimized
+- exports fixed
+- date encoder
 
 ### 0.2.1 (2021-01-14)
 
--   exports fixed
+- exports fixed
 
 ### 0.2.0 (2021-01-14)
 
--   project renamed
+- project renamed
 
 ### 0.1.0 (2021-01-14)
 
--   init
+- init

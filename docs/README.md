@@ -2,10 +2,10 @@
 
 Fork of the `notepack.io` with improvements:
 
--   Code optimizations.
--   Streaming decoder.
--   {Date} encoded with the standard msgpack protocol extension (breaking change).
--   {BigInt} type support.
+- Code optimizations.
+- Streaming decoder.
+- {Date} encoded with the standard msgpack protocol extension (breaking change).
+- {BigInt} type support.
 
 ## Install
 
@@ -25,25 +25,25 @@ const data = msgpack.decode( buffer );
 
 ### msgpack.encode( data, encoding? )
 
--   `data` {any} Data structire to encode.
--   `encoding?` {string} Return string in the specified encoding.
--   Returns: {Buffer|string} Encoded data. Returns {string} if `encoding` parameter is provided.
+- `data` {any} Data structire to encode.
+- `encoding?` {string} Return string in the specified encoding.
+- Returns: {Buffer|string} Encoded data. Returns {string} if `encoding` parameter is provided.
 
 ### msgpack.decode( data, encoding? )
 
--   `data` {Buffer|ArrayBuffer|Uint8Array|string} Data to decode.
--   `encoding?` {string} String encoding if `data` parameter is {string}.
--   Returns: {any} Decoded data.
+- `data` {Buffer|ArrayBuffer|Uint8Array|string} Data to decode.
+- `encoding?` {string} String encoding if `data` parameter is {string}.
+- Returns: {any} Decoded data.
 
 Throws error if unable to decode message.
 
 ### msgpack.decodeStream( data, offset )
 
--   `data` {Buffer|ArrayBuffer|Uint8Array|string} Data to decode.
--   `offset?` {integer} Offset of the message start in the passed data. **Default:** `0`.
--   Returns: {Array}:
-    -   {any} Decoded data.
-    -   {integer} Offset of the decoded message end in the passed data.
+- `data` {Buffer|ArrayBuffer|Uint8Array|string} Data to decode.
+- `offset?` {integer} Offset of the message start in the passed data. **Default:** `0`.
+- Returns: {Array}:
+    - {any} Decoded data.
+    - {integer} Offset of the decoded message end in the passed data.
 
 Returns {undefined} if message is incomplete.
 
