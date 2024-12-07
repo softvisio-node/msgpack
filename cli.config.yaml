@@ -1,5 +1,5 @@
 docs:
-  location: /docs
+    location: /docs
 
-  types:
-    msgpack.decode.Stream: "/#Class: msgpack.decode.Stream"
+    types:
+        msgpack.decode.Stream: "/#Class: msgpack.decode.Stream"
