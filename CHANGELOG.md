@@ -1,5 +1,13 @@
 # Changelog
 
+### 3.3.24 (2024-12-07)
+
+Other changes:
+
+- chore: set yaml indent to 4 spaces
+
+[Compare with the previous release: v3.3.23 ... v3.3.24](https://github.com/softvisio-node/msgpack/compare/v3.3.23...v3.3.24)
+
 ### 3.3.23 (2024-11-29)
 
 Other changes:
