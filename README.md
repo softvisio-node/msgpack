@@ -45,11 +45,11 @@ Throws error if unable to decode message.
 
 - `data` {Buffer|ArrayBuffer|Uint8Array|string} Data to decode.
 - `offset?` {integer} Offset of the message start in the passed data. **Default:** `0`.
-- Returns: {Array}:
-    - {any} Decoded data.
-    - {integer} Offset of the decoded message end in the passed data.
+- Returns: {Object}:
+    - `value?` {any} Decoded data.
+    - `offset?` {integer} Offset of the decoded message end in the passed data.
 
-Returns {undefined} if message is incomplete.
+Returns empty {Object} if message is incomplete.
 
 Throws error if unable to decode message.
 
