@@ -1,5 +1,13 @@
 # Changelog
 
+### 3.4.1 (2024-12-22)
+
+Other changes:
+
+- chore: update decodeStream
+
+[Compare with the previous release: v3.4.0 ... v3.4.1](https://github.com/softvisio-node/msgpack/compare/v3.4.0...v3.4.1)
+
 ### 3.4.0 (2024-12-22)
 
 Features:
