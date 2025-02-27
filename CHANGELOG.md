@@ -1,5 +1,13 @@
 # Changelog
 
+### 3.4.4 (2025-02-27)
+
+Other changes:
+
+- chore: add editorconfig yaml
+
+Compare with the previous release: [`v3.4.3...v3.4.4`](https://github.com/softvisio-node/msgpack/compare/v3.4.3...v3.4.4)
+
 ### 3.4.3 (2025-02-26)
 
 Other changes:
