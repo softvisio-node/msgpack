@@ -1,5 +1,13 @@
 # Changelog
 
+### 3.4.5 (2025-03-26)
+
+Other changes:
+
+- chore: update markdown code tags
+
+Compare with the previous release: [`v3.4.4...v3.4.5`](https://github.com/softvisio-node/msgpack/compare/v3.4.4...v3.4.5)
+
 ### 3.4.4 (2025-02-27)
 
 Other changes:
