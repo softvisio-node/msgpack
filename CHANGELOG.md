@@ -1,5 +1,13 @@
 # Changelog
 
+### v3.4.6 (2025-06-01)
+
+**Other changes:**
+
+- \[PATCH] chore: update docs (👬 zdm)
+
+Compare with the previous release: [v3.4.5](https://github.com/softvisio-node/msgpack/compare/v3.4.5...v3.4.6)
+
 ### 3.4.5 (2025-03-26)
 
 Other changes:
