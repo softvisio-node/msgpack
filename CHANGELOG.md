@@ -1,5 +1,13 @@
 # Changelog
 
+### v3.4.7 (2025-06-07)
+
+**Other changes:**
+
+- \[PATCH] chore: update cli config (👬 zdm)
+
+Compare with the previous release: [v3.4.6](https://github.com/softvisio-node/msgpack/compare/v3.4.6...v3.4.7)
+
 ### v3.4.6 (2025-06-01)
 
 **Other changes:**
