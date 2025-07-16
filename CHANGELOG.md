@@ -1,5 +1,13 @@
 # Changelog
 
+### v3.4.8 (2025-07-16)
+
+**Other changes:**
+
+- docs: update (● [957cbfe](https://github.com/softvisio-node/msgpack/commit/957cbfe); 👬 zdm)
+
+Compare with the previous release: [v3.4.7](https://github.com/softvisio-node/msgpack/compare/v3.4.7...v3.4.8)
+
 ### v3.4.7 (2025-06-07)
 
 **Other changes:**
