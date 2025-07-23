@@ -1,5 +1,13 @@
 # Changelog
 
+### v3.4.13 (2025-07-23)
+
+**Other changes:**
+
+- style: update .npmrc (● [4ba72ef](https://github.com/softvisio-node/msgpack/commit/4ba72ef); 👬 zdm)
+
+Compare with the previous release: [v3.4.12](https://github.com/softvisio-node/msgpack/compare/v3.4.12...v3.4.13)
+
 ### v3.4.12 (2025-07-23)
 
 **Bug fixes:**
