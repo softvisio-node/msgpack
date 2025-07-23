@@ -1,5 +1,13 @@
 # Changelog
 
+### v3.4.12 (2025-07-23)
+
+**Bug fixes:**
+
+- \[PATCH] fix: update editorconfig (● [b80fc8a](https://github.com/softvisio-node/msgpack/commit/b80fc8a); 👬 zdm)
+
+Compare with the previous release: [v3.4.11](https://github.com/softvisio-node/msgpack/compare/v3.4.11...v3.4.12)
+
 ### v3.4.11 (2025-07-22)
 
 **Bug fixes:**
