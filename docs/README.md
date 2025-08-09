@@ -18,18 +18,18 @@ npm install @softvisio/msgpack
 ```javascript
 import * as msgpack from "@softvisio/msgpack";
 
-const buffer = msgpack.encode( [ new Date() ] );
+const buffer = msgpack.toMsgPack( [ new Date() ] );
 
-const data = msgpack.decode( buffer );
+const data = msgpack.fromMsgPack( buffer );
 ```
 
-### msgpack.encode( data, encoding? )
+### msgpack.toMsgPack( data, encoding? )
 
 - `data` {any} Data structire to encode.
 - `encoding?` {string} Return string in the specified encoding.
 - Returns: {Buffer|string} Encoded data. Returns {string} if `encoding` parameter is provided.
 
-### msgpack.decode( data, encoding? )
+### msgpack.fromMsgPack( data, encoding? )
 
 - `data` {Buffer|ArrayBuffer|Uint8Array|string} Data to decode.
 - `encoding?` {string} String encoding if `data` parameter is {string}.
@@ -37,7 +37,7 @@ const data = msgpack.decode( buffer );
 
 Throws error if unable to decode message.
 
-### msgpack.decodeStream( data, offset )
+### msgpack.fromMsgPackStream( data, offset )
 
 - `data` {Buffer|ArrayBuffer|Uint8Array|string} Data to decode.
 - `offset?` {integer} Offset of the message start in the passed data. **Default:** `0`.
