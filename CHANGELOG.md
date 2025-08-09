@@ -1,5 +1,13 @@
 # Changelog
 
+### v3.5.0 (2025-08-09)
+
+**New features:**
+
+- \[MINOR] feat: rename exports (● [61feb29](https://github.com/softvisio-node/msgpack/commit/61feb29); 👬 zdm)
+
+Compare with the previous release: [v3.4.13](https://github.com/softvisio-node/msgpack/compare/v3.4.13...v3.5.0)
+
 ### v3.4.13 (2025-07-23)
 
 **Other changes:**
