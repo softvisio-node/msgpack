@@ -1,5 +1,13 @@
 # Changelog
 
+### v3.5.18 (2026-05-28)
+
+**Other changes:**
+
+- build: remove registries from .npmrc (● [6d4ded3](https://github.com/corejslib/msgpack/commit/6d4ded3); 👬 zdm)
+
+Compare with the previous release: [v3.5.17...v3.5.18](https://github.com/corejslib/msgpack/compare/v3.5.17...v3.5.18)
+
 ### v3.5.17 (2026-05-16)
 
 **Other changes:**
