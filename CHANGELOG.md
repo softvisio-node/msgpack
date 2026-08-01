@@ -1,5 +1,13 @@
 # Changelog
 
+### v3.5.20 (2026-08-01)
+
+**Bug fixes:**
+
+- \[PATCH] fix: update package keywords (● [7cab72c](https://github.com/corejslib/msgpack/commit/7cab72c); 👬 zdm)
+
+Compare with the previous release: [v3.5.19...v3.5.20](https://github.com/corejslib/msgpack/compare/v3.5.19...v3.5.20)
+
 ### v3.5.19 (2026-06-19)
 
 **Other changes:**
