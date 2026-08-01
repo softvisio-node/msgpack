@@ -1,5 +1,13 @@
 # Changelog
 
+### v3.5.21 (2026-08-01)
+
+**Other changes:**
+
+- chore: rename softvisio to corejslib (● [db8f846](https://github.com/corejslib/msgpack/commit/db8f846); 👬 zdm)
+
+Compare with the previous release: [v3.5.20...v3.5.21](https://github.com/corejslib/msgpack/compare/v3.5.20...v3.5.21)
+
 ### v3.5.20 (2026-08-01)
 
 **Bug fixes:**
