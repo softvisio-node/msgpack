@@ -3,7 +3,6 @@
     "version": "3.5.19",
     "description": "Fork of notepack.io with improvements",
     "keywords": [
-        "softvisio",
         "messagepack",
         "msgpack",
         "notepack"
