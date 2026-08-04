@@ -1,5 +1,13 @@
 # Changelog
 
+### v3.5.22 (2026-08-04)
+
+**Other changes:**
+
+- chore: rename ccli to zcli (● [fcb85ae](https://github.com/corejslib/msgpack/commit/fcb85ae), [f9ee287](https://github.com/corejslib/msgpack/commit/f9ee287), [407ce55](https://github.com/corejslib/msgpack/commit/407ce55); 👬 zdm)
+
+Compare with the previous release: [v3.5.21...v3.5.22](https://github.com/corejslib/msgpack/compare/v3.5.21...v3.5.22)
+
 ### v3.5.21 (2026-08-01)
 
 **Other changes:**
